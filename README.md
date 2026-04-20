@@ -2,7 +2,7 @@ AI Engineer, building agents.
 
 Cursor Ambassador.
 
-Occasionally ship open source. Most popular: `@mohtasham/md-to-docx` (190K+ downloads).
+Occasionally ship open source. Most popular: https://npmjs.com/@mohtasham/md-to-docx (10k+ weekly, 260K+ all time downloads).
 
 Currently building [getdesign.app](https://getdesign.app).
 
