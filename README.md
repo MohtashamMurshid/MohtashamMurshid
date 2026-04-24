@@ -2,12 +2,12 @@ AI Engineer, building agents.
 
 Cursor Ambassador.
 
-Occasionally ship open source. Most popular: https://npmjs.com/@mohtasham/md-to-docx (10k+ weekly, 260K+ all time downloads).
+Occasionally ship open source. 
+Most popular: https://npmjs.com/@mohtasham/md-to-docx (10k+ weekly, 260K+ all time downloads).
 
 Currently building 
 - [getdesign.app](https://getdesign.app).
 - [eikonstudio](https://eikonstudio.xyz)
-- [md-to-docx](https://www.npmjs.com/package/@mohtasham/md-to-docx)
 
 Based between Kashmir and Kuala Lumpur.
 
