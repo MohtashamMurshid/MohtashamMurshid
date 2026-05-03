@@ -11,6 +11,7 @@ Cursor Ambassador. Occasionally ship open source.
 **Currently building**
 
 - [getdesign.app](https://getdesign.app)
+- [getdesign Studio](https://studio.getdesign.app)
 - [eikonstudio](https://eikonstudio.xyz)
 
 &nbsp;
