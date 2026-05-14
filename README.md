@@ -4,7 +4,7 @@ Cursor Ambassador. Occasionally ship open source.
 
 &nbsp;
 
-**Most popular:** [`@mohtasham/md-to-docx`](https://npmjs.com/@mohtasham/md-to-docx) — 10k+ weekly, 260K+ all time downloads.
+**Most popular:** [`@mohtasham/md-to-docx`](https://npmjs.com/@mohtasham/md-to-docx) — ![npm downloads](https://img.shields.io/npm/dw/@mohtasham/md-to-docx) , ![npm total downloads](https://img.shields.io/npm/dt/@mohtasham/md-to-docx) all time downloads.
 
 &nbsp;
 
